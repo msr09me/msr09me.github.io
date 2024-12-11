@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Product Development
       tag: ML
-    - name: Computer Vision
+    - name: Arduino
       tag: CV
-    - name: NLP
+    - name: Automation
       tag: NLP
 
 design:
